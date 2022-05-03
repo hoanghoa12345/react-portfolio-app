@@ -1,5 +1,5 @@
 {
-  "name": "github-testimony-card",
+  "name": "react-portfolio-app",
   "version": "1.0.0",
   "scripts": {
     "build": "webpack --mode production",
@@ -11,7 +11,7 @@
   "license": "MIT",
   "author": {
     "name": "HoangHoa",
-    "email": "kieungochoanghoa@yahoo.com.vn"
+    "email": "hoanghoa@hoadevteam.onmicrosoft.com"
   },
   "devDependencies": {
     "@babel/core": "^7.15.8",

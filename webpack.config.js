@@ -45,7 +45,7 @@ module.exports = {
 
   plugins: [
     new ModuleFederationPlugin({
-      name: "github-testimony-card",
+      name: "react-portfolio-app",
       filename: "remoteEntry.js",
       remotes: {},
       exposes: {},
